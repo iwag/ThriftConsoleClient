@@ -2,7 +2,9 @@ sources are generated from https://github.com/twitter/scala-bootstrapper and arr
 
 # run
 
+```
    sbt compile
    ./console
+```   
    
 and then edit src/main/thrift
